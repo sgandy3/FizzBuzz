@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: FizzBuzz, Configuration: Debug Any CPU ------
+1>  FizzBuzz -> C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
